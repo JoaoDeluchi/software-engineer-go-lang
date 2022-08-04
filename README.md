@@ -48,5 +48,3 @@
 
 ## Accept interfaces, Return structs - Jack lindamood
 
-
-PAGE 60
